@@ -1,1 +1,1 @@
-This is a demo for CU Students
+This is a demo for Cs Students
